@@ -1,0 +1,3 @@
+to import book data into the mongoDB databse:
+Run mongoDB
+run mongo bookAPI < booksJson.js
